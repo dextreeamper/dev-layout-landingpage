@@ -1,4 +1,4 @@
-# Bookstore
+# Dev Layout
 A dev-layout landing page with bootstrap, gulp and sass boilerplate.
 # Quickstart
 ```
